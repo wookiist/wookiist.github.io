@@ -15,6 +15,13 @@
         <summary type="html"><![CDATA[TEST~!]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Test2]]></title>
+        <id>Test2</id>
+        <link href="https://wookiist.github.io/blog/Test2"/>
+        <updated>2021-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TEST~!]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://wookiist.github.io/blog/welcome"/>

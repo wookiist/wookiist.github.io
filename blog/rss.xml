@@ -15,6 +15,13 @@
             <description><![CDATA[TEST~!]]></description>
         </item>
         <item>
+            <title><![CDATA[Test2]]></title>
+            <link>https://wookiist.github.io/blog/Test2</link>
+            <guid>Test2</guid>
+            <pubDate>Wed, 04 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TEST~!]]></description>
+        </item>
+        <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wookiist.github.io/blog/welcome</link>
             <guid>welcome</guid>

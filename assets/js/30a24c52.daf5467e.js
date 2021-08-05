@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwookiist_github_io=self.webpackChunkwookiist_github_io||[]).push([[453],{8605:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"hello","name":"hello","count":3,"permalink":"/blog/tags/hello"}')}}]);
